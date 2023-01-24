@@ -2,6 +2,12 @@
 
 # 1st Project - eHealth Corpp
 
+## Author
+
+| **Nmec** | **Name**     | **Course** | **Email**    | **Project Grade** |
+|----------|--------------|------------|--------------|-------------------|
+| 104063   | Ana Loureiro |   [LEI]    | ana.sl@ua.pt |      20           |
+
 ## Project Description
 
 This assignment will focus on the existence, investigation, and mitigation of vulnerabilities in software projects. 
@@ -24,9 +30,4 @@ This project should contain both a flawed and correct version of the application
 -  **CWE-307**: Improper Restriction of Excessive Authentication Attempts
 -  **CWE-434**: Unrestricted Upload of File with Dangerous Type 
 
-## Author
-
-| **Nmec** | **Name**     | **Course** | **Email**    |
-|----------|--------------|------------|--------------|
-| 104063   | Ana Loureiro |   [LEI]    | ana.sl@ua.pt |
 
